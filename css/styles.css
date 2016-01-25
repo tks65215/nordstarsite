@@ -1,0 +1,51 @@
+a   { 
+    text-decoration: none;
+    }
+li   { 
+    text-decoration: none;
+    } 
+i   { 
+    text-decoration: none;
+    }
+h1 /*Только латиница*/
+    {
+    font-family: 'Oswald', cursive;
+    width: 85%;
+    color: #00b8aa;
+    }
+h2 
+    {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    
+    }
+h3 
+    {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color:#fff
+    }
+h4 
+    {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+    color: #fff
+    }
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

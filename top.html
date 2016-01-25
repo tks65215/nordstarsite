@@ -1,0 +1,16 @@
+<div class="w3-animate-top">
+ <nav>
+ <ul>
+ <li><a href="/">Главная</a></li>
+ <li><a href="/forum">Форум</a></li>
+ <li><a href="/load">Моды и загрузки</a></li>
+ <li><a href="/photo">Скриншоты и фотоальбомы</a></li>
+ <li><a href="#" onclick="openchat();">Открыть мини-чат</a></li>
+ </ul>
+ </nav> 
+ </div>
+<script type="text/javascript"> 
+ function openchat(){new _uWnd('chat','Мини-чат',300,100,{align:0,shadow:0,close:1,autosize:1,maxh:500,minh:100,resize:1}, $("#chat").html() )} 
+ </script> 
+ <div style="display:none;" id="chat">$CHAT_BOX$</div>
+</header>
